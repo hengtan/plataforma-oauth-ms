@@ -1,4 +1,3 @@
-
 # 🧱 Arquitetura de Sistema: Plataforma Full-Stack Moderna com OAuth, Microsserviços, Gateway, e Cache-Aside
 
 ## 🎯 Objetivo
